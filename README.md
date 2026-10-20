@@ -26,6 +26,7 @@ rosversion -d　　　　　# noetic と出ればOK
 gazebo --version　　　　# 11.x と出ればOK
 
 
+
 ## ● Step 2: 必要なパッケージを入れる
 
 sudo apt update  
