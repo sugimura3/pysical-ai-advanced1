@@ -4,7 +4,7 @@
 
 ## ● Step 1: ROS 1 Noetic の Docker を起動する
 
-★PowerShell（ターミナル） の起動
+★PowerShell の起動
 
 docker stop pai_ros2  
 cd ~/Desktop  
