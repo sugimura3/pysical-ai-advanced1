@@ -48,7 +48,7 @@ source devel/setup.bash
 
 ## ● Step 4: シミュレーションを起動する
 
-source ~/catkin_ws/devel/setup.bash   # ターミナルを開くたびに必要  
+source ~/catkin_ws/devel/setup.bash　　　　　　　　# ターミナルを開くたびに必要  
 roslaunch gazebo_urdf_lecture dtw_gazebo.launch
 
 
